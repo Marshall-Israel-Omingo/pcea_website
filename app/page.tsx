@@ -98,7 +98,7 @@ export default function Home() {
           Go to nextjs.org →
         </a>
       </footer>
-      <h1>Added a Heading 1 tag</h1>
+      <h1>Added a Heading 1 tags</h1>
     </div>
   );
 }
